@@ -1,0 +1,22 @@
+/* Estilos para CartWidget */
+.cart-widget {
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .cart-widget i {
+    font-size: 3.5rem;
+    margin-right: 50px;
+  }
+  
+  .cart-count {
+    background-color: lightsalmon;
+    color: darkblue;
+    font-size: 1rem;
+    border-radius: 10%;
+    padding: 3px 6px;
+    position: absolute;
+    top: -8px;
+    right: -8px;
+  }
